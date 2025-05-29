@@ -1,5 +1,5 @@
 # Import-Fitbit-SpO2-data-into-Apple-Health
-I created an Apple Shortcut that imports fitbit SpO2 (Blood Oxygen) data into Apple Health.
+I created an [Apple Shortcut](https://www.icloud.com/shortcuts/284b613fb2b74e4ba9c8b30bbe79b6cb) that imports fitbit SpO2 (Blood Oxygen) data into Apple Health.
 
 Steps:
 
