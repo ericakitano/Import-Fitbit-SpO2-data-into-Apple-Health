@@ -1,4 +1,11 @@
 # Import-Fitbit-SpO2-data-into-Apple-Health
+
+***
+
+**NOTE**: I noticed that the Shortcut works fine if I only select one file and import one file at a time, but gives an error if I try to import multiple files in one run. I will work on fixing this when I have time and will update.
+
+***
+
 I created an [Apple Shortcut](https://www.icloud.com/shortcuts/284b613fb2b74e4ba9c8b30bbe79b6cb) that imports fitbit SpO2 (Blood Oxygen) data into Apple Health.
 
 Steps:
